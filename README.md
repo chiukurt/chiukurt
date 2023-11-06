@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+### Most of my code is private but screenshots and demos of projects can be seen [here](https://sites.google.com/view/kurt-chiu-t127/home)
+
+
 ![](https://raw.githubusercontent.com/chiukurt/-jstrieb-github-stats-/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chiukurt/-jstrieb-github-stats-/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/chiukurt/-jstrieb-github-stats-/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chiukurt/-jstrieb-github-stats-/master/generated/languages.svg#gh-light-mode-only)
+
+Github stats from:  [/jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 <!--
 **chiukurt/chiukurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
