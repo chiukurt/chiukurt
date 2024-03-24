@@ -1,5 +1,4 @@
 # Hi there 👋
-### Most of my code is private but screenshots and demos are on my [[portfolio]](https://sites.google.com/view/kurt-chiu-t127/home)
 
 
 ![](https://raw.githubusercontent.com/chiukurt/-jstrieb-github-stats-/master/generated/overview.svg#gh-dark-mode-only)
